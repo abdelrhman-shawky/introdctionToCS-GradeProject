@@ -1,8 +1,9 @@
 // BankSystem.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <string>
 #include <iostream>
+#include"HeaderBankSystem.h"
+
 
 int main()
 {

@@ -127,11 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Admin.cpp" />
     <ClCompile Include="BankSystem.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="Admin.h" />
+    <ClInclude Include="Client.h" />
+    <ClInclude Include="Employee.h" />
+    <ClInclude Include="HeaderBankSystem.h" />
+    <ClInclude Include="Person.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

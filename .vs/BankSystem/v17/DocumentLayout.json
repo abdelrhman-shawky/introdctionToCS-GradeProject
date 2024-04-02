@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\",
+  "WorkspaceRootPath": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,58 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Source.cpp",
-              "RelativeDocumentMoniker": "BankSystem\\Source.cpp",
-              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Source.cpp",
-              "RelativeToolTip": "BankSystem\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T20:13:00.28Z",
+              "Title": "Admin.h",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Admin.h",
+              "RelativeDocumentMoniker": "BankSystem\\Admin.h",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Admin.h",
+              "RelativeToolTip": "BankSystem\\Admin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T19:43:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.h",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Employee.h",
+              "RelativeDocumentMoniker": "BankSystem\\Employee.h",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Employee.h",
+              "RelativeToolTip": "BankSystem\\Employee.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T19:42:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.h",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Client.h",
+              "RelativeDocumentMoniker": "BankSystem\\Client.h",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Client.h",
+              "RelativeToolTip": "BankSystem\\Client.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T19:40:18.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Header.h",
-              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Header.h",
-              "RelativeDocumentMoniker": "BankSystem\\Header.h",
-              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\Header.h",
-              "RelativeToolTip": "BankSystem\\Header.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Title": "Person.h",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Person.h",
+              "RelativeDocumentMoniker": "BankSystem\\Person.h",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\Person.h",
+              "RelativeToolTip": "BankSystem\\Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-31T19:16:57.383Z",
+              "WhenOpened": "2024-04-02T19:38:18.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BankSystem.cpp",
-              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\BankSystem.cpp",
-              "RelativeDocumentMoniker": "BankSystem\\BankSystem.cpp",
-              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\BankSystem.cpp",
-              "RelativeToolTip": "BankSystem\\BankSystem.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T18:52:54.843Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 168,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ClassDiagram.cd",
-              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\ClassDiagram.cd",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\ClassDiagram.cd",
               "RelativeDocumentMoniker": "BankSystem\\ClassDiagram.cd",
-              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem\\ClassDiagram.cd",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\ClassDiagram.cd",
               "RelativeToolTip": "BankSystem\\ClassDiagram.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-03-31T19:16:21.515Z",
+              "WhenOpened": "2024-03-31T20:20:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankSystem.cpp",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem.cpp",
+              "RelativeDocumentMoniker": "BankSystem\\BankSystem.cpp",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\BankSystem.cpp",
+              "RelativeToolTip": "BankSystem\\BankSystem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T18:52:54.843Z",
               "EditorCaption": ""
             }
           ]
