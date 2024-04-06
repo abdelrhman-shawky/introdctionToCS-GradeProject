@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\HeaderBankSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2705CCB9-F81B-422A-BC35-88630A7797C8}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\HeaderBankSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +41,21 @@
         },
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeaderBankSystem.h",
+              "DocumentMoniker": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\HeaderBankSystem.h",
+              "RelativeDocumentMoniker": "BankSystem\\HeaderBankSystem.h",
+              "ToolTip": "D:\\workshops\\C\u002B\u002B_course\\c\u002B\u002B_GradeProject\\introdctionToCS-GradeProject\\BankSystem\\HeaderBankSystem.h",
+              "RelativeToolTip": "BankSystem\\HeaderBankSystem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T22:09:17.708Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,

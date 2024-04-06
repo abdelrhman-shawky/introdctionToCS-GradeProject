@@ -35,7 +35,7 @@ class Employee :
 
 private:
 
-	double salary;
+	
 
 public:
 

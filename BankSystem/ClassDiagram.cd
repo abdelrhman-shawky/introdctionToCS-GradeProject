@@ -15,14 +15,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Employee">
-    <Position X="6.5" Y="3.25" Width="1.5" />
+    <Position X="6.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAgEAAAgAAAAAAAAAAAAAAAAAAAAAAgEgA=</HashCode>
-      <FileName>Employee.h</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAgEgA=</HashCode>
+      <FileName>HeaderBankSystem.h</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Admin">
-    <Position X="6.5" Y="6.25" Width="1.5" />
+    <Position X="6.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>QAAAAgAAAAAgAAAAAAAAQAAAAAAAAAAAEAAAAAAAEAA=</HashCode>
       <FileName>Admin.h</FileName>
